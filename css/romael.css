@@ -1,0 +1,50 @@
+div.err {
+	color:BLACK;
+	background-color: LIGHTRED;
+	font-size: x-small;
+}
+
+div.ok {
+	color:BLACK;
+	background-color: LIGHTGREEN;
+	font-size: x-small;
+} 
+
+header {
+	height:250px;
+}
+#bandeau {
+	background-color: WHITE;
+	position: fixed;
+    left : 0px;
+    Z-index:200;
+   /* border-top : 2px;
+    border-left : 2px;
+    border-right : 2px;
+    border-bot : 2px;*/
+}
+
+table.bandeau {
+	
+}
+
+td.titRow {
+	witdh:20%;
+	font-weight: bold;
+	text-align:right;
+}
+td.dataRow {
+	witdh:30%;
+	
+}
+
+input, select {
+	font-size: small;
+}
+
+.error {
+	color:RED;
+	background-color: WHITE;
+	font-size: large;
+	
+}
